@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<ScoreRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ScoreList>
+    <ScoreItem rank="1">
+      <Date>2016-04-15 23:32:24</Date>
+      <Score>2350</Score>
+    </ScoreItem>
+    <ScoreItem rank="2">
+      <Date>2016-04-15 23:41:50</Date>
+      <Score>2335</Score>
+    </ScoreItem>
+    <ScoreItem rank="3">
+      <Date>2016-04-15 23:48:58</Date>
+      <Score>2160</Score>
+    </ScoreItem>
+    <ScoreItem rank="4">
+      <Date>2016-04-15 23:44:25</Date>
+      <Score>585</Score>
+    </ScoreItem>
+    <ScoreItem rank="5">
+      <Date>2016-04-10 16:34:36</Date>
+      <Score>535</Score>
+    </ScoreItem>
+  </ScoreList>
+</ScoreRecord>
