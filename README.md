@@ -2,7 +2,7 @@
 Assignment project - Space Shooter Revamp
 
 -- Open in Unity3d version 2017.2.0f3 --</br>
-Can build and run in Windows platform
+Can build and run in Windows and Mac platform
 
 
 </br>
